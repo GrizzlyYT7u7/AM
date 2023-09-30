@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fotos de marte</string>
+    <string name="loading_failed">Error al cargar</string>
+    <string name="retry">Reintentar</string>
+    <string name="loading">Cargando</string>
+    <string name="placeholder_success">Texto</string>
+    <string name="mars_photo">Fotos de marte</string>
+</resources>
